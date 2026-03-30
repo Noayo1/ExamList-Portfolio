@@ -1,9 +1,9 @@
-[submodule "examlistnoa"]
-	path = examlistnoa
+[submodule "ExamList-App"]
+	path = ExamList-App
 	url = git@github.com:Noayo1/ExamList-App.git
-[submodule "terraformportfolio"]
-	path = terraformportfolio
+[submodule "ExamList-Terraform"]
+	path = ExamList-Terraform
 	url = git@github.com:Noayo1/ExamList-Terraform.git
-[submodule "examlistgitops"]
-	path = examlistgitops
+[submodule "ExamList-GitOps"]
+	path = ExamList-GitOps
 	url = git@github.com:Noayo1/ExamList-GitOps.git
