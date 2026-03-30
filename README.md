@@ -8,7 +8,7 @@
 
 **Full-stack exam management app deployed on AWS EKS with GitOps automation, complete observability, and Infrastructure as Code.**
 
-[App Repo](https://gitlab.com/nyo1254/examlistnoa) · [Infrastructure](https://gitlab.com/nyo1254/terraformportfolio) · [GitOps](https://gitlab.com/nyo1254/examlistgitops)
+[App Repo](https://github.com/Noayo1/ExamList-App) · [Infrastructure](https://github.com/Noayo1/ExamList-Terraform) · [GitOps](https://github.com/Noayo1/ExamList-GitOps)
 
 ![ExamList Application](screenshots/Examlist.png)
 
@@ -52,9 +52,9 @@ In production, CloudFront serves the static frontend from S3 and proxies API req
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| **examlistnoa** | Flask backend, vanilla JS frontend, CI/CD pipeline, tests | [GitLab](https://gitlab.com/nyo1254/examlistnoa) |
-| **terraformportfolio** | AWS EKS infrastructure - VPC, EKS, CloudFront CDN, Cloudflare DNS | [GitLab](https://gitlab.com/nyo1254/terraformportfolio) |
-| **examlistgitops** | ArgoCD app-of-apps, Helm chart, infrastructure manifests | [GitLab](https://gitlab.com/nyo1254/examlistgitops) |
+| **examlistnoa** | Flask backend, vanilla JS frontend, CI/CD pipeline, tests | [GitLab](https://github.com/Noayo1/ExamList-App) |
+| **terraformportfolio** | AWS EKS infrastructure - VPC, EKS, CloudFront CDN, Cloudflare DNS | [GitLab](https://github.com/Noayo1/ExamList-Terraform) |
+| **examlistgitops** | ArgoCD app-of-apps, Helm chart, infrastructure manifests | [GitLab](https://github.com/Noayo1/ExamList-GitOps) |
 
 ---
 
