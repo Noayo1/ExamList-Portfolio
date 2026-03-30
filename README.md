@@ -10,7 +10,9 @@
 
 <p align="center"><strong>Full-stack exam management app deployed on AWS EKS with GitOps automation, complete observability, and Infrastructure as Code.</strong></p>
 
-[App Repo](https://github.com/Noayo1/ExamList-App) · [Infrastructure](https://github.com/Noayo1/ExamList-Terraform) · [GitOps](https://github.com/Noayo1/ExamList-GitOps)
+<p align="center">
+  <a href="https://github.com/Noayo1/ExamList-App">App Repo</a> · <a href="https://github.com/Noayo1/ExamList-Terraform">Infrastructure</a> · <a href="https://github.com/Noayo1/ExamList-GitOps">GitOps</a>
+</p>
 
 ![ExamList Application](screenshots/Examlist.png)
 
