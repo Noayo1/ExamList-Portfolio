@@ -1,12 +1,14 @@
 # ExamList Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-REST_API-black?logo=flask)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?logo=argo&logoColor=white)
-![EKS](https://img.shields.io/badge/AWS-EKS-FF9900?logo=amazoneks&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-REST_API-black?logo=flask" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-EKS-FF9900?logo=amazoneks&logoColor=white" />
+</p>
 
-**Full-stack exam management app deployed on AWS EKS with GitOps automation, complete observability, and Infrastructure as Code.**
+<p align="center"><strong>Full-stack exam management app deployed on AWS EKS with GitOps automation, complete observability, and Infrastructure as Code.</strong></p>
 
 [App Repo](https://github.com/Noayo1/ExamList-App) · [Infrastructure](https://github.com/Noayo1/ExamList-Terraform) · [GitOps](https://github.com/Noayo1/ExamList-GitOps)
 
